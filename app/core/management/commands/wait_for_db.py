@@ -1,5 +1,5 @@
 """
-Commands to check whether the database is availbale or not
+Commands to check whether the database is available or not
 """
 
 import time
